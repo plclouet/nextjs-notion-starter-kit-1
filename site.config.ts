@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
   domain: '',
-  author: 'PL CLOUET',
+  author: 'PLC',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
